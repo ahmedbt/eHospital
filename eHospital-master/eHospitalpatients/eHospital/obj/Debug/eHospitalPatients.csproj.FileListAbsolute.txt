@@ -1,0 +1,58 @@
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\bin\Debug\eHospital.exe.config
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospital.exe
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospital.pdb
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\bin\Debug\eHospital.exe
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\bin\Debug\eHospital.pdb
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\bin\Debug\MySql.Data.dll
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospital.Properties.Resources.resources
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospitalPatients.csproj.GenerateResource.Cache
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospitalPatients.Form1.resources
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospitalPatients.Form2.resources
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospitalPatients.Form3.resources
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospitalPatients.Form4.resources
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospitalPatients.Form5.resources
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospitalPatients.Form6.resources
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospitalPatients.Form7.resources
+C:\Users\Mirza\Documents\IUS\ius\Software Engineering\projekat\eHospital v1\eHospital v1\eHospital\eHospital\obj\Debug\eHospitalPatients.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\bin\Debug\eHospital.exe.config
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospital.exe
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospital.pdb
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\bin\Debug\eHospital.exe
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\bin\Debug\eHospital.pdb
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\bin\Debug\MySql.Data.dll
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.Form1.resources
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.Form5.resources
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.Form6.resources
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.Form7.resources
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospital.Properties.Resources.resources
+C:\Users\ahmed\Desktop\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\bin\Debug\eHospital.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospital.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospital.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\bin\Debug\eHospital.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\bin\Debug\eHospital.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.Form5.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.Form6.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.Form7.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospital.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospitalpatients\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.LoginForm.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\bin\Debug\eHospital.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\obj\Debug\eHospital.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\obj\Debug\eHospital.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.EditProfileForm.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.LoginForm.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.makeAppointment.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.PatientForm.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\obj\Debug\eHospital.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\obj\Debug\eHospitalPatients.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\bin\Debug\eHospital.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\bin\Debug\eHospital.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eHospitalpatients\eHospital\bin\Debug\MySql.Data.dll
+C:\Users\ahmed\Desktop\eHospital-master\eHospital-master\eHospitalpatients\eHospital\bin\Debug\eHospital.exe.config
+C:\Users\ahmed\Desktop\eHospital-master\eHospital-master\eHospitalpatients\eHospital\obj\Debug\eHospital.exe
+C:\Users\ahmed\Desktop\eHospital-master\eHospital-master\eHospitalpatients\eHospital\obj\Debug\eHospital.pdb
